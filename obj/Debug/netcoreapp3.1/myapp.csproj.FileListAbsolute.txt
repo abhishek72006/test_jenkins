@@ -1,0 +1,13 @@
+D:\Jenkins\test-asp.net\myapp\bin\Debug\netcoreapp3.1\myapp.exe
+D:\Jenkins\test-asp.net\myapp\bin\Debug\netcoreapp3.1\myapp.deps.json
+D:\Jenkins\test-asp.net\myapp\bin\Debug\netcoreapp3.1\myapp.runtimeconfig.json
+D:\Jenkins\test-asp.net\myapp\bin\Debug\netcoreapp3.1\myapp.runtimeconfig.dev.json
+D:\Jenkins\test-asp.net\myapp\bin\Debug\netcoreapp3.1\myapp.dll
+D:\Jenkins\test-asp.net\myapp\bin\Debug\netcoreapp3.1\myapp.pdb
+D:\Jenkins\test-asp.net\myapp\obj\Debug\netcoreapp3.1\myapp.csprojAssemblyReference.cache
+D:\Jenkins\test-asp.net\myapp\obj\Debug\netcoreapp3.1\myapp.AssemblyInfoInputs.cache
+D:\Jenkins\test-asp.net\myapp\obj\Debug\netcoreapp3.1\myapp.AssemblyInfo.cs
+D:\Jenkins\test-asp.net\myapp\obj\Debug\netcoreapp3.1\myapp.csproj.CoreCompileInputs.cache
+D:\Jenkins\test-asp.net\myapp\obj\Debug\netcoreapp3.1\myapp.dll
+D:\Jenkins\test-asp.net\myapp\obj\Debug\netcoreapp3.1\myapp.pdb
+D:\Jenkins\test-asp.net\myapp\obj\Debug\netcoreapp3.1\myapp.genruntimeconfig.cache
